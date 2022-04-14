@@ -1,6 +1,23 @@
 # Crypto Bot
 
+Strategies and notebooks for [freqtrade](https://www.freqtrade.io)
+
+This project needs to point to freqtrade user-dir.
+
+
 ## Env Config
+
+Install [Freqtrade](https://www.freqtrade.io/en/stable/installation/)
+
+Configure **userdir**
+
+```sh
+# Step 1 - Initialize user folder
+freqtrade create-userdir --userdir user_data
+
+# Step 2 - Create a new configuration file
+freqtrade new-config --config config.json
+```
 
 Install new Env:
 
