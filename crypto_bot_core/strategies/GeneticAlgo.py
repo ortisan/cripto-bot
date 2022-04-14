@@ -1,6 +1,10 @@
 # pragma pylint: disable=missing-docstring, invalid-name, pointless-string-statement
 # flake8: noqa: F401
 
+
+# This just strategy executor. All business rules are in StrategyFactory.py
+
+
 # --- Do not remove these libs ---
 import numpy as np  # noqa
 import pandas as pd  # noqa

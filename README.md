@@ -2,9 +2,6 @@
 
 Strategies and notebooks for [freqtrade](https://www.freqtrade.io)
 
-This project needs to point to freqtrade user-dir.
-
-
 ## Env Config
 
 Install [Freqtrade](https://www.freqtrade.io/en/stable/installation/)
